@@ -1,0 +1,12 @@
+C:\Users\user\Downloads\My_Macro-master (2)\My_Macro-master\bin\Release\My_Macro.exe.config
+C:\Users\user\Downloads\My_Macro-master (2)\My_Macro-master\bin\Release\My_Macro.exe
+C:\Users\user\Downloads\My_Macro-master (2)\My_Macro-master\bin\Release\My_Macro.pdb
+C:\Users\user\Downloads\My_Macro-master (2)\My_Macro-master\obj\Release\My_Macro.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\My_Macro-master (2)\My_Macro-master\obj\Release\My_Macro.CrosshairForm.resources
+C:\Users\user\Downloads\My_Macro-master (2)\My_Macro-master\obj\Release\My_Macro.Main_MacroForm.resources
+C:\Users\user\Downloads\My_Macro-master (2)\My_Macro-master\obj\Release\My_Macro.Form2.resources
+C:\Users\user\Downloads\My_Macro-master (2)\My_Macro-master\obj\Release\My_Macro.Properties.Resources.resources
+C:\Users\user\Downloads\My_Macro-master (2)\My_Macro-master\obj\Release\My_Macro.csproj.GenerateResource.cache
+C:\Users\user\Downloads\My_Macro-master (2)\My_Macro-master\obj\Release\My_Macro.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\My_Macro-master (2)\My_Macro-master\obj\Release\My_Macro.exe
+C:\Users\user\Downloads\My_Macro-master (2)\My_Macro-master\obj\Release\My_Macro.pdb
