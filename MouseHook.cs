@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ﻿using System;
+=======
+using System;
+using System.Collections.Generic;
+using System.Linq;
+>>>>>>> fc828ac165cedafa1fcf118e2f296fd408a759bb
 using System.Runtime.InteropServices;
 using System.Windows.Forms;
 
