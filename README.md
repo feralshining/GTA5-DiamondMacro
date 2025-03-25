@@ -4,6 +4,8 @@
 
 >  Grand Theft Auto V 플레이를 돕기 위한 도구
 ---
+### ✅ Version = ver 24.11
+---
 ### 💡 How To Use
 
 - `F2 : CEO 되기`
